@@ -11,7 +11,7 @@ Some information about Zebrafish project.
 ```
 193 mL water + 7 mL Tricaine + 120~150 uL Isoflurane
 ```
-* Use micro-pipette for Isoflurane!
+* Use micro-pipette for Isoflurane. Wrong concentration would very likely to kill the fish.
 * Wait around several minutes for the fish to enter stage 4 anesthesia.
 * For more information please refer to the [paper](https://www.ncbi.nlm.nih.gov/pubmed/20807039)
 
