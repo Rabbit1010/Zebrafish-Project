@@ -1,5 +1,5 @@
 # Zebrafish-Project
-Some information about Zebrafish project.
+Some information about Zebrafish project. (Detail code and algorithm was not uploaded, please contact me for more details.)
 
 # Anesthesia Methods
 * There two anesthetic solutions used in combination for adult Zebrafish.
@@ -25,3 +25,7 @@ Therefore, 1L water + 2000mg Tricaine powder is 2000 ppm.
 # Anesthetic Images
 ![Tricaine](./IMG_8705.jpeg)
 ![Isoflurane](./IMG_8706.jpeg)
+
+# Result
+![](./Results/Tracking_image.png)
+![](./Results/Zebrafish_Heart_Rate.png)
